@@ -1,0 +1,15 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "src/main/resources/lwjgl/lwjgl/lwjgl.jar",
+        "src/main/resources/lwjgl/lwjgl-opengl/lwjgl-opengl.jar",
+        "c:\\Users\\thejw\\Downloads\\lwjgl\\lwjgl\\lwjgl.jar",
+        "c:\\Users\\thejw\\Downloads\\lwjgl\\lwjgl-glfw\\lwjgl-glfw.jar",
+        "c:\\Users\\thejw\\Downloads\\lwjgl\\lwjgl-opengl\\lwjgl-opengl.jar",
+        "c:\\Users\\thejw\\Downloads\\lwjgl\\lwjgl\\lwjgl-natives-windows.jar"
+    ],
+    "java.project.sourcePaths": [
+        "src/main/java/com.tanks",
+        "tanksmp/src/main/java/com/tanksmp"
+    ]
+}
